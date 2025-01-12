@@ -60,19 +60,19 @@ Data warehouse is a system that functions as a center for data integration from 
 
   > Data Flow to perform Union All looks like the image below:
 
-  ![image alt](https://github.com/Biancaninna/ETL-Data-Warehouse-Using-SQL-Server-Integration-Services-SSIS--Visual-Studio/blob/452dee0aa4c41f320f199e1e250dfd8b935c4c64/Union%20All%20Images/Data%20Flow%20Task%203.png)  
+ ![image alt](https://github.com/Biancaninna/ETL-Data-Warehouse-Using-SQL-Server-Integration-Services-SSIS--Visual-Studio/blob/452dee0aa4c41f320f199e1e250dfd8b935c4c64/Union%20All%20Images/Data%20Flow%20Task%203.png)  
 
 12. The last step is to execute the package. If the execution is successful, it will look like the image below:
 
- ![image alt](https://github.com/Biancaninna/ETL-Data-Warehouse-Using-SQL-Server-Integration-Services-SSIS--Visual-Studio/blob/452dee0aa4c41f320f199e1e250dfd8b935c4c64/Merge%20Images/Package%20Execution%20Completed%20with%20Success.png)   
+    ![image alt](https://github.com/Biancaninna/ETL-Data-Warehouse-Using-SQL-Server-Integration-Services-SSIS--Visual-Studio/blob/452dee0aa4c41f320f199e1e250dfd8b935c4c64/Merge%20Images/Package%20Execution%20Completed%20with%20Success.png)   
 
 - This is the data warehouse using Merge
 
- ![image alt](https://github.com/Biancaninna/ETL-Data-Warehouse-Using-SQL-Server-Integration-Services-SSIS--Visual-Studio/blob/452dee0aa4c41f320f199e1e250dfd8b935c4c64/Merge%20Images/Final%20Data%20Warehouse.png)   
+    ![image alt](https://github.com/Biancaninna/ETL-Data-Warehouse-Using-SQL-Server-Integration-Services-SSIS--Visual-Studio/blob/452dee0aa4c41f320f199e1e250dfd8b935c4c64/Merge%20Images/Final%20Data%20Warehouse.png)   
 
 - This is the data warehouse using Union All
 
-   ![image alt](https://github.com/Biancaninna/ETL-Data-Warehouse-Using-SQL-Server-Integration-Services-SSIS--Visual-Studio/blob/452dee0aa4c41f320f199e1e250dfd8b935c4c64/Union%20All%20Images/Final%20Data%20Warehouse%20For%20Customers%20Table.png)   
+    ![image alt](https://github.com/Biancaninna/ETL-Data-Warehouse-Using-SQL-Server-Integration-Services-SSIS--Visual-Studio/blob/452dee0aa4c41f320f199e1e250dfd8b935c4c64/Union%20All%20Images/Final%20Data%20Warehouse%20For%20Customers%20Table.png)   
   
 
-### Finally, the process of building a data warehouse is complete, you can do the same steps for each table in the database.
+### Finally, the process of building a data warehouse is complete, you can do the same steps for each table in the database. Have a good try ^-^
